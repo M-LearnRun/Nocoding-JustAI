@@ -1,3 +1,5 @@
+## MRI 데이터 압축 해제 및 파일 수 확인 코드 #3-3-1.py
+
 import zipfile
 import os
  
