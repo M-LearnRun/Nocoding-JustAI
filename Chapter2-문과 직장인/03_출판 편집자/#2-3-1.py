@@ -12,4 +12,5 @@ data = {
 }
 # 위에서 정의한 데이터 사전을 사용하여 pandas DataFrame 생성
 df = pd.DataFrame(data)
+ 
 tools.display_dataframe_to_user(name="분야별 발행 종수 (2020~2023)", dataframe=df)
