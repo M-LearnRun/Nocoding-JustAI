@@ -1,0 +1,101 @@
+Rank,Name,Symbol,marketcap,price (USD),country,Sector
+1,Apple,AAPL,3.67E+12,242.84,United States,Technology
+2,NVIDIA,NVDA,3.49E+12,142.44,United States,Technology
+3,Microsoft,MSFT,3.30E+12,443.57,United States,Technology
+4,Amazon,AMZN,2.39E+12,227.03,United States,Consumer Discretionary
+5,Alphabet (Google),GOOG,2.15E+12,176.49,United States,Technology
+6,Meta Platforms (Facebook),META,1.57E+12,623.77,United States,Technology
+7,Tesla,TSLA,1.25E+12,389.22,United States,Consumer Discretionary
+8,Berkshire Hathaway,BRK-B,1.01E+12,470.5,United States,Financial Services
+9,Broadcom,AVGO,8.39E+11,179.53,United States,Technology
+10,Walmart,WMT,7.69E+11,95.7,United States,Consumer Staples
+11,Eli Lilly,LLY,7.43E+11,826.71,United States,Healthcare
+12,JPMorgan Chase,JPM,6.96E+11,247.36,United States,Financial Services
+13,Visa,V,6.02E+11,311.01,United States,Financial Services
+14,Oracle,ORCL,5.31E+11,191.69,United States,Technology
+15,UnitedHealth,UNH,5.06E+11,549.62,United States,Healthcare
+16,Exxon Mobil,XOM,4.99E+11,113.57,United States,Energy
+17,Mastercard,MA,4.85E+11,528.57,United States,Financial Services
+18,Costco,COST,4.40E+11,992.61,United States,Consumer Staples
+19,Home Depot,HD,4.29E+11,431.37,United States,Consumer Discretionary
+20,Procter & Gamble,PG,4.09E+11,173.82,United States,Consumer Staples
+21,Netflix,NFLX,4.00E+11,934.74,United States,Communication Services
+22,Johnson & Johnson,JNJ,3.59E+11,149.31,United States,Healthcare
+23,Bank of America,BAC,3.59E+11,46.75,United States,Financial Services
+24,Salesforce,CRM,3.46E+11,361.99,United States,Technology
+25,AbbVie,ABBV,3.11E+11,176.19,United States,Healthcare
+26,T-Mobile US,TMUS,2.83E+11,243.78,United States,Communication Services
+27,Chevron,CVX,2.77E+11,155.24,United States,Energy
+28,Coca-Cola,KO,2.69E+11,62.53,United States,Consumer Staples
+29,Merck,MRK,2.61E+11,103.09,United States,Healthcare
+30,Wells Fargo,WFC,2.47E+11,74.33,United States,Financial Services
+31,Adobe,ADBE,2.43E+11,552.96,United States,Technology
+32,Cisco,CSCO,2.39E+11,59.89,United States,Technology
+33,ServiceNow,NOW,2.32E+11,1124.34,United States,Technology
+34,AMD,AMD,2.25E+11,138.59,United States,Technology
+35,IBM,IBM,2.20E+11,238.04,United States,Technology
+36,Pepsico,PEP,2.16E+11,157.79,United States,Consumer Staples
+37,McDonald,MCD,2.14E+11,298.98,United States,Consumer Discretionary
+38,American Express,AXP,2.14E+11,303.99,United States,Financial Services
+39,Walt Disney,DIS,2.11E+11,116.73,United States,Communication Services
+40,Morgan Stanley,MS,2.09E+11,129.96,United States,Financial Services
+41,Philip Morris,PM,2.03E+11,130.56,United States,Consumer Staples
+42,Thermo Fisher Scientific,TMO,2.02E+11,529.36,United States,Healthcare
+43,Abbott Laboratories,ABT,2.01E+11,115.6,United States,Healthcare
+44,Intuitive Surgical,ISRG,1.96E+11,550.41,United States,Healthcare
+45,Caterpillar,CAT,1.91E+11,395.03,United States,Industrials
+46,General Electric,GE,1.90E+11,175.58,United States,Industrials
+47,Goldman Sachs,GS,1.88E+11,599.68,United States,Financial Services
+48,Intuit,INTU,1.81E+11,646.47,United States,Technology
+49,Verizon,VZ,1.78E+11,42.37,United States,Communication Services
+50,QUALCOMM,QCOM,1.77E+11,159.51,United States,Technology
+51,Texas Instruments,TXN,1.76E+11,193.1,United States,Technology
+52,Booking Holdings (Booking.com),BKNG,1.75E+11,5300.34,United States,Consumer Discretionary
+53,Palantir,PLTR,1.74E+11,76.34,United States,Technology
+54,AT&T,T,1.71E+11,23.88,United States,Communication Services
+55,Danaher,DHR,1.66E+11,230.12,United States,Healthcare
+56,Comcast,CMCSA,1.65E+11,43.15,United States,Communication Services
+57,BlackRock,BLK,1.62E+11,1042.87,United States,Financial Services
+58,S&P Global,SPGI,1.60E+11,516.77,United States,Financial Services
+59,Raytheon Technologies,RTX,1.57E+11,117.99,United States,Industrials
+60,Nextera Energy,NEE,1.55E+11,75.24,United States,Utilities
+61,Lowe's Companies,LOW,1.54E+11,273.43,United States,Consumer Discretionary
+62,Charles Schwab,SCHW,1.49E+11,81.47,United States,Financial Services
+63,Progressive,PGR,1.49E+11,254.56,United States,Financial Services
+64,Honeywell,HON,1.47E+11,226.38,United States,Industrials
+65,Stryker Corporation,SYK,1.47E+11,385.02,United States,Healthcare
+66,Amgen,AMGN,1.47E+11,272.58,United States,Healthcare
+67,Pfizer,PFE,1.46E+11,25.73,United States,Healthcare
+68,KKR & Co.,KKR,1.46E+11,158.01,United States,Financial Services
+69,Applied Materials,AMAT,1.43E+11,173.02,United States,Technology
+70,TJX Companies,TJX,1.42E+11,126.09,United States,Consumer Discretionary
+71,Union Pacific Corporation,UNP,1.42E+11,233.57,United States,Industrials
+72,Uber,UBER,1.39E+11,66.09,United States,Consumer Discretionary
+73,Citigroup,C,1.36E+11,72.15,United States,Financial Services
+74,Arista Networks,ANET,1.36E+11,108.25,United States,Technology
+75,Blackstone Group,BX,1.35E+11,187,United States,Financial Services
+76,AppLovin,APP,1.35E+11,401.5,United States,Technology
+77,ConocoPhillips,COP,1.34E+11,103.22,United States,Energy
+78,Palo Alto Networks,PANW,1.33E+11,405.9,United States,Technology
+79,Boston Scientific,BSX,1.33E+11,90.07,United States,Healthcare
+80,Automatic Data Processing,ADP,1.24E+11,304.56,United States,Financial Services
+81,Lockheed Martin,LMT,1.22E+11,513.03,United States,Industrials
+82,Deere & Company,DE,1.21E+11,444,United States,Industrials
+83,Bristol-Myers Squibb,BMY,1.20E+11,59.38,United States,Healthcare
+84,Vertex Pharmaceuticals,VRTX,1.19E+11,462.1,United States,Healthcare
+85,Fiserv,FI,1.18E+11,207.28,United States,Financial Services
+86,Nike,NKE,1.17E+11,78.89,United States,Consumer Discretionary
+87,Boeing,BA,1.15E+11,153.93,United States,Industrials
+88,Gilead Sciences,GILD,1.15E+11,92.13,United States,Healthcare
+89,Starbucks,SBUX,1.14E+11,100.11,United States,Consumer Discretionary
+90,Micron Technology,MU,1.13E+11,101.17,United States,Technology
+91,Marsh & McLennan Companies,MMC,1.11E+11,225.16,United States,Financial Services
+92,Analog Devices,ADI,1.08E+11,218.2,United States,Technology
+93,United Parcel Service,UPS,1.07E+11,125.61,United States,Industrials
+94,Prologis,PLD,1.04E+11,112,United States,Real Estate
+95,Apollo Global Management,APO,1.01E+11,177.85,United States,Financial Services
+96,Lam Research,LRCX,98547589120,76.59,United States,Technology
+97,Marvell Technology Group,MRVL,98220204032,113.51,United States,Technology
+98,Altria Group,MO,97146511360,57.32,United States,Consumer Staples
+99,Sherwin-Williams,SHW,96953327616,384.96,United States,Materials
+100,American Tower,AMT,96775553024,207.1,United States,Real Estate
